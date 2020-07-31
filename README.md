@@ -1,16 +1,15 @@
-### Hi there 👋
+### Привет, я @rus_anonym!
 
-<!--
-**RusAnonym/RusAnonym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я веб-разработчик из [16K Corporation](https://vk.com/16k_corporation). 
 
-Here are some ideas to get you started:
+Занимаюсь разработкой различных ненужных программ.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📱  Я сейчас отдыха.
+- 🤓 Собираюсь изучить C# и в будущем стать специалистом по информационной безопасности.
+- 😒 Пишу на JS и Dart.
+- 📫 Найти меня можно в [VK](https://vk.com/rus_anonym) и [Telegram](https://t.me/rus_anonym).
+- 🎂 5 апреля 2021г. исполнится 17 лет!
+
+
+
+Частично скопировано у [@NovaStream2030](https://github.com/NovaStream2030)
