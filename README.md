@@ -1,6 +1,6 @@
 ### Привет, я @rus_anonym!
 
-Я веб-разработчик из [16K Corporation](https://vk.com/16k_corporation). 
+Я бэкенд-разработчик из [16K Corporation](https://vk.com/16k_corporation). 
 
 Занимаюсь разработкой различных ненужных программ.
 
