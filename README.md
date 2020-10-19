@@ -15,4 +15,4 @@
 Частично скопировано у [@NovaStream2030](https://github.com/NovaStream2030)
 
 
-![My stats](https://github-readme-stats.vercel.app/api?username=RusAnonym&count_private=true)
+![My stats](https://github-readme-stats.vercel.app/api?username=RusAnonym&count_private=true&show_icons=true&theme=dark)
