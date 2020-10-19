@@ -16,4 +16,4 @@
 
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=RusAnonym&count_private=true&show_icons=true&theme=dark)
-https://github-readme-stats.vercel.app/api/top-langs/?username=RusAnonym&theme=dark&langs_count=10&layout=compact
+(https://github-readme-stats.vercel.app/api/top-langs/?username=RusAnonym&theme=dark&langs_count=10&layout=compact)
