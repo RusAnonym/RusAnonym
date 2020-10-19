@@ -13,3 +13,6 @@
 
 
 Частично скопировано у [@NovaStream2030](https://github.com/NovaStream2030)
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RusAnonym)](https://github.com/anuraghazra/github-readme-stats)
