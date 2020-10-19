@@ -17,4 +17,3 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=RusAnonym&show_icons=true&theme=dark&count_private=true&hide_title=true&include_all_commits=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RusAnonym&theme=dark&langs_count=10&layout=compact)
-![](https://github-readme-stats.vercel.app/api/wakatime?username=rus_anonym&theme=dark)]
