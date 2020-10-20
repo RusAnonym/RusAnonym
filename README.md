@@ -1,4 +1,4 @@
-### Привет, я @rus_anonym!
+### Привет, я [@rus_anonym](https://vk.com/rus_anonym)!
 
 Я бэкенд-разработчик из [16K Corporation](https://github.com/16K-Corporation).
 
