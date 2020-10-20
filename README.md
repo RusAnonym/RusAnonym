@@ -1,6 +1,6 @@
 ### Привет, я @rus_anonym!
 
-Я бэкенд-разработчик из @16K-Corporation.
+Я бэкенд-разработчик из [16K Corporation](https://github.com/16K-Corporation).
 
 Занимаюсь разработкой различных ненужных программ.
 
