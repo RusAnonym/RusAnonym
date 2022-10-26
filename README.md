@@ -16,7 +16,6 @@
 <summary><b>⚡ Github Stats</b></summary>
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RusAnonym&show_icons=true&theme=dark&count_private=true&hide_title=true&include_all_commits=true&hide_border=true" align = "center"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RusAnonym&theme=dark&langs_count=10&layout=compact&hide_border=true" align="center"/>
   <img height="350em" src="https://github-readme-stats.vercel.app/api/wakatime?username=rus_anonym&range=last_7_days&theme=dark&hide_border=true" align="center"/>
 </p>
 
